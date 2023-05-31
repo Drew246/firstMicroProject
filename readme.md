@@ -12,9 +12,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
-
-## 🛠 Built With <a name="built-with"></a>
+**[Hello Microverse]** is my first mniproject from module 1. This project serves to familiarize students with Git, Github,gitflow and linters.
 
 ### Tech Stack <a name="tech-stack"></a>
 
