@@ -22,5 +22,5 @@
 👤 Andrew McCollin
 
 - GitHub: (https://github.com/Drew246)
-- LinkedIn: [linkedin.com/in/andrew-mccollin)
+- LinkedIn: [www.linkedin.com/in/andrew-mccollin)
 
