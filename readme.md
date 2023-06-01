@@ -1,8 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-<h3>README</h3>
+  <h3><b>README</b></h3>
 </div>
+
+<br>
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
