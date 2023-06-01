@@ -138,7 +138,7 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/Drew246))
+- GitHub: [@githubhandle](https://github.com/Drew246)
 - Twitter: [@twitterhandle](n/a)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/andrew-mccollin)
 
