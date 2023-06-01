@@ -1,7 +1,8 @@
 <a name="readme-top"></a>
 
-<h3>README Template</h3>
-
+<div align="center">
+<h3>README</h3>
+</div>
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
