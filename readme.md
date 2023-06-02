@@ -106,7 +106,6 @@ You can deploy this project using:
 👤 Andrew Mccollin
 
 - GitHub: [@githubhandle](https://github.com/Drew246)
-- Twitter: [@twitterhandle](n/a)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/andrew-mccollin)
 
 
