@@ -30,19 +30,12 @@ Hello Microverse is the first miniproject from module 1. This project serves to 
 ### Tech Stack <a name="tech-stack"></a>
 
 
-<details>
-  <summary>Client</summary>
+  
   <ul>
     <li><a href="https://html.spec.whatwg.org/">HTML</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
     <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
   </ul>
-</details>
+
 
 ### Key Features <a name="key-features"></a>
 
@@ -105,17 +98,13 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+ - N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
