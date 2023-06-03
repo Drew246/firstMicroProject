@@ -33,29 +33,20 @@ Hello Microverse is the first miniproject from module 1. This project serves to 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.spec.whatwg.org/">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Displays the text "Hello Microverse in my favourite color**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +58,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Any modern browser.
+A browser of your choosing.
 
 ### Setup
 
